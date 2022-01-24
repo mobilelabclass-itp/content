@@ -2,10 +2,10 @@
 
 ## Before first class
 
-- github account setup
-- github desktop app install
-- xcode app install
-- sf symbols app install
+- [github account setup](https://docs.github.com/en/get-started/onboarding/getting-started-with-your-github-account)
+- [github desktop app install](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/installing-and-authenticating-to-github-desktop/installing-github-desktop)
+- [xcode app install](https://apps.apple.com/us/app/xcode/id497799835?mt=12)
+- [sf symbols app install](https://developer.apple.com/sf-symbols/)
 
 ## Overview
 
