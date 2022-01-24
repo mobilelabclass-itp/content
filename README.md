@@ -55,10 +55,11 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 ## Evaluation
 
-Grades will be determined according to the following breakdown:
-Regular Assignments 40%
-Participation and Attendance 40%
-Final Project 20%
+### Grades will be determined according to the following breakdown:
+
+- Regular Assignments 40%
+- Participation and Attendance 40%
+- Final Project 20%
 
 ## STATEMENT OF ACADEMIC INTEGRITY
 
