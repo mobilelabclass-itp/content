@@ -28,12 +28,12 @@
 
 ## Homework
 
-- Write a brief description on your wiki page about your plan to learn Swift programming fundamentals
+- write a brief description on your wiki page about your plan to learn Swift programming fundamentals
 
-- review xcode/00-Playground.playground
+- review [00-Playground.playground](https://github.com/mobilelabclass-itp/00-Playground)
 
-- Create a git repo for homework exercises and projects
-- Create a Xcode playground to explore emoji's and add it to your repo
+- create a git repo for homework exercises and projects
+- create a Xcode playground to explore emoji's and add it to your repo
   - encorporate Swift langage features you are learning
   - eg. variables, for loops, arrays
-- Put a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content/wiki)
+- add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content/wiki)
