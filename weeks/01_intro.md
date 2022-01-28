@@ -17,14 +17,25 @@
 - Swift Programming 1
   - history and evolution
 
-## Resources
+## Resources - Apple Platform
+
+- [WWDC Videos](https://developer.apple.com/videos/all-videos)
+
+Covers everything Apple (iOS / macOS / watchOS)  
+Use search to be selective
+
+## Resources - Swift
 
 - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 - [linkedin swift-5-essential-training ](https://www.linkedin.com/learning/swift-5-essential-training)
 - [Ray Wenderlich - your-first-ios-swiftui-app](https://www.raywenderlich.com/28797163-your-first-ios-swiftui-app-an-app-from-scratch)
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
 - [Stanford University: CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
-- [WWDC Videos](https://developer.apple.com/videos/all-videos)
+- [Learn Swift for C++ Developers](https://www.advancedswift.com/learn-swift-cpp/)
+
+## Resources - Github
+
+- [github desktop doc](https://docs.github.com/en/desktop/installing-and-configuring-github-desktop/overview/getting-started-with-github-desktop)
 
 ## Homework
 
