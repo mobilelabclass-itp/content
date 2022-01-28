@@ -28,7 +28,7 @@
 
 ## Homework
 
-- Write a brief description on your wiki page your plan to learn Swift programming fundamentals
+- Write a brief description on your wiki page about your plan to learn Swift programming fundamentals
 
 - review xcode/00-Playground.playground
 
