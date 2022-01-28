@@ -28,11 +28,9 @@
 
 ## Homework
 
-- Write a brief description of your plan to learn Swift programming fundamentals on your wiki page
+- Write a brief description on your wiki page your plan to learn Swift programming fundamentals
 
-- [Mobile Lab Playground Week 1]()
-
-  - review this playground from class
+- review xcode/00-Playground.playground
 
 - Create a git repo for homework exercises and projects
 - Create a Xcode playground to explore emoji's and add it to your repo
