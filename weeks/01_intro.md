@@ -25,3 +25,17 @@
 - [www.hackingwithswift.com -- 100 days of swiftui](https://www.hackingwithswift.com/100/swiftui)
 - [Stanford University: CS193p - Developing Apps for iOS](https://cs193p.sites.stanford.edu/)
 - [WWDC Videos](https://developer.apple.com/videos/all-videos)
+
+## Homework
+
+- Write a brief description of your plan to learn Swift programming fundamentals on your wiki page
+
+- [Mobile Lab Playground Week 1]()
+
+  - review this playground from class
+
+- Create a git repo for homework exercises and projects
+- Create a Xcode playground to explore emoji's and add it to your repo
+  - encorporate Swift langage features you are learning
+  - eg. variables, for loops, arrays
+- Put a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content/wiki)
