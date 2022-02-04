@@ -51,4 +51,4 @@ Use search to be selective, or [browse by Topics](https://developer.apple.com/vi
 
 ## Notes
 
-[01-MoLab-Notes](./assets/01-MoLab-Notes.pdf)
+[01-MoLab-Notes](../assets/01-MoLab-Notes.pdf)
