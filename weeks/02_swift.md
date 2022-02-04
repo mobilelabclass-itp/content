@@ -17,6 +17,8 @@
 - review playgrounds
 
   - [00-Playground](https://github.com/mobilelabclass-itp/00-Playground)
+  - [Apple Swift Docs - developer](https://developer.apple.com/documentation/swift)
+  - [Apple Swift Docs - A Swift Tour](https://docs.swift.org/swift-book/GuidedTour/GuidedTour.html)
 
 - lab activity
 
@@ -24,7 +26,8 @@
 
 - demo - anatomy of an iOS App
 
-  - [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit)
+  - [Introducing SwiftUI](https://developer.apple.com/tutorials/swiftui) start
+  - [interfacing-with-uikit](https://developer.apple.com/tutorials/swiftui/interfacing-with-uikit) end - 4hr 25min Estimated Time
   - [InterfacingWithUIKit.zip](https://docs-assets.developer.apple.com/published/242e2bc4bd32f82ad6c54ca5cd01f222/15600/InterfacingWithUIKit.zip)
 
 - demo - app on device
