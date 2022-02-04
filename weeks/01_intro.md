@@ -48,3 +48,7 @@ Use search to be selective, or [browse by Topics](https://developer.apple.com/vi
   - encorporate Swift langage features you are learning
   - eg. variables, for loops, arrays
 - add a link to your repo on the [wiki home page](https://github.com/mobilelabclass-itp/content/wiki)
+
+## Notes
+
+[01-MoLab-Notes](./assets/01-MoLab-Notes.pdf)
