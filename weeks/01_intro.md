@@ -22,7 +22,7 @@
 - [WWDC Videos](https://developer.apple.com/videos/all-videos)
 
 Covers everything Apple (iOS, macOS, tvOS, watchOS)  
-Use search to be selective
+Use search to be selective, or [browse by Topics](https://developer.apple.com/videos/topics/)
 
 ## Resources - Swift
 
