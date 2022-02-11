@@ -27,7 +27,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 2 -- [Swift Programming 2, Anatomy of an iOS App](weeks/02_swift.md)
 
-- 3 -- Swift UI 1, Images
+- 3 -- [Swift UI 1, Images](weeks/03_swiftui.md)
 
 - 4 -- Swift UI 2, Audio
 
@@ -50,6 +50,10 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 - 13 -- Final Project Workshop 2
 
 - 14 -- Final Presentation and Critiques
+
+## Office hours
+
+- [Office hours: Weekly Tuesday 1pm - 5pm](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUdFT1BmNTVfLW5BfGRlZmF1bHR8YmZmMzM3NDFjYjFmMGE4NDI1YTFlNWEzNGQwMGY3NTk)
 
 # Policies
 
