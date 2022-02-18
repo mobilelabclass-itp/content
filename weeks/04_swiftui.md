@@ -13,6 +13,10 @@
 - [swiftui](https://developer.apple.com/documentation/swiftui)
 - [swiftui - state-and-data-flow](https://developer.apple.com/documentation/swiftui/state-and-data-flow)
 
+## XCode indent preference
+
+- ![xcode pref indent](./assets/xcode-pref-indent.png)
+
 ## Plan
 
 - review homework
