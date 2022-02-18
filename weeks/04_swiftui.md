@@ -15,7 +15,7 @@
 
 ## XCode indent preference
 
-- ![xcode pref indent](./assets/xcode-pref-indent.png)
+- ![xcode pref indent](../assets/xcode-pref-indent.png)
 
 ## Plan
 
