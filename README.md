@@ -29,7 +29,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 3 -- [Swift UI 1, Images](weeks/03_swiftui.md)
 
-- 4 -- Swift UI 2, Audio
+- 4 -- [Swift UI 2, Audio](weeks/04_swiftui.md)
 
 - 5 -- Local Data 1, Sensors
 
