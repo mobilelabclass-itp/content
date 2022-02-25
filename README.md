@@ -31,7 +31,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 4 -- [Swift UI 2, Audio](weeks/04_swiftui.md)
 
-- 5 -- Local Data 1, Sensors
+- 5 -- [Local Data 1, Sensors](weeks/05_data.md)
 
 - 6 -- Local Data 2
 
