@@ -25,7 +25,9 @@
 
 - review demos - demos split out into individual repos for easier access
 
+  - [03-ImageUiDemo-1-symbols](https://github.com/mobilelabclass-itp/03-ImageUiDemo-1-symbols)
   - [03-ImageDemo-2-urls](https://github.com/mobilelabclass-itp/03-ImageDemo-2-urls)
+
   - [04-Audio-State-Demo](https://github.com/mobilelabclass-itp/04-Audio-State-Demo)
 
   - [05-AppStorageDemo](https://github.com/mobilelabclass-itp/05-AppStorageDemo)
