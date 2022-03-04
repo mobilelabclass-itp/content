@@ -23,14 +23,14 @@
 
 ### SwiftUI Demos
 
-- [iDine app](https://github.com/twostraws/iDine)
+- [iDine app](https://github.com/mobilelabclass-itp/iDine)
 
   - Reference: [hackingwithswift.com swiftui-tutorial-building-a-complete-project](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project)
 
 -
-- [Puppy adoption app](https://github.com/sameersyd/Wiggles-iOS)
+- [Puppy adoption app](https://github.com/mobilelabclass-itp/06-Wiggles-iOS)
 
-- [Clubapartment app](https://github.com/FranckNdame/swiftui.builds)
+- [Clubapartment app](https://github.com/mobilelabclass-itp/swiftui.builds)
 
 ### Saving Data Demos
 
