@@ -33,7 +33,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 5 -- [Local Data 1, Sensors](weeks/05_data.md)
 
-- 6 -- Local Data 2
+- 6 -- [Local Data 2](weeks/06_data.md)
 
 - 7 -- Multi User Experiences
 
