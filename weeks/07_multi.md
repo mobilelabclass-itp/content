@@ -50,6 +50,7 @@
   - https://firebase.google.com/docs/firestore
   - https://www.raywenderlich.com/11609977-getting-started-with-cloud-firestore-and-swiftui
   - https://github.com/frankdulko/gaggle
+  - https://github.com/frankdulko/Gaggle-App
 
 ## Homework
 
