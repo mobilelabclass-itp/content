@@ -35,7 +35,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 6 -- [Local Data 2](weeks/06_data.md)
 
-- 7 -- Multi User Experiences
+- 7 -- [Multi User Experiences](week/07_multi.md)
 
 - 8 -- Photo Media
 
