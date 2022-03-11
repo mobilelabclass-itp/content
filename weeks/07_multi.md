@@ -10,11 +10,11 @@
 
 - summarize your challenges (and progress) on your wiki page
 
-- feed back
+- feedback
 
 - break
 
-- review demos
+- navigation and data (local and cloud)
 
 ### navigation demos revisted
 
@@ -36,13 +36,13 @@
 - [iDine app](https://github.com/mobilelabclass-itp/iDine) 06-iDine
   - Reference: [hackingwithswift.com swiftui-tutorial-building-a-complete-project](https://www.hackingwithswift.com/quick-start/swiftui/swiftui-tutorial-building-a-complete-project)
 
-### Saving Data Local
+### Saving Data - Local
 
 - [05-ImageEditDemo](https://github.com/mobilelabclass-itp/05-ImageEditDemo)
 
 - [06-ChipsSaveJSON](https://github.com/mobilelabclass-itp/06-ChipsSaveJSON)
 
-### Saving Data Cloud
+### Saving Data - Cloud
 
 - [07-ChipsSaveCloud](https://github.com/mobilelabclass-itp/07-ChipsSaveCloud)
 
