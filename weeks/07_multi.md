@@ -26,9 +26,8 @@
 
 ### SwiftUI Demos - navigation
 
-- [Clubapartment app](https://github.com/mobilelabclass-itp/swiftui.builds)
+- [Clubapartment app](https://github.com/mobilelabclass-itp/swiftui.builds) 06_swiftui.builds/clubhouse
 
-  - 06_swiftui.builds/clubhouse
   - [View Figma design](https://www.figma.com/file/8DwfJi51F88IW1xNVrDMP4/Clubapartment?node-id=0%3A1)
   - [Watch me build](https://www.youtube.com/watch?v=UVTRKeIm3JA&feature=youtu.be)
 
