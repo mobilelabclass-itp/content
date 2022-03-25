@@ -1,7 +1,5 @@
 # Week 08 Photo Media
 
-## Resources
-
 ## Plan
 
 - questions
