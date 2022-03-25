@@ -37,7 +37,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 7 -- [Multi User Experiences](weeks/07_multi.md)
 
-- 8 -- Photo Media
+- 8 -- [Photo Media](weeks/08_photo.md)
 
 - 9 -- Video Media
 
