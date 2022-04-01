@@ -39,7 +39,7 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 8 -- [Photo Media](weeks/08_photo.md)
 
-- 9 -- Video Media
+- 9 -- [Video Media](weeks/09_video.md)
 
 - 10 -- Augmented Reality
 
