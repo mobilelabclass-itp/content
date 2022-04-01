@@ -20,7 +20,7 @@
 - [Replacing Foundation Timers with Timer Publishers](https://developer.apple.com/documentation/combine/replacing-foundation-timers-with-timer-publishers)
   Example of using Combine with Timers
 
-- (Triggering events repeatedly using a timer)[https://www.hackingwithswift.com/books/ios-swiftui/triggering-events-repeatedly-using-a-timer]
+- [Triggering events repeatedly using a timer](https://www.hackingwithswift.com/books/ios-swiftui/triggering-events-repeatedly-using-a-timer)
 
 ### Video/Combine Demo
 
