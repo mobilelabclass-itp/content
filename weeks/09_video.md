@@ -24,9 +24,9 @@
 
 ### Video/Combine Demo
 
-- [09-FilterTheWorld](https://github.com/mobilelabclass-itp/09-FilterTheWorld)
-
 - [09-Instafilter](https://github.com/mobilelabclass-itp/09-Instafilter)
+
+- [09-FilterTheWorld](https://github.com/mobilelabclass-itp/09-FilterTheWorld)
 
 ## Homework
 
