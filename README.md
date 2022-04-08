@@ -41,13 +41,13 @@ Some programming experience (such as ICM) and willingness to learn Apple's Swift
 
 - 9 -- [Video Media](weeks/09_video.md)
 
-- 10 -- Augmented Reality
+- 10 -- [Review](weeks/10_review.md)
 
-- 11 -- Final Project Proposals
+- 11 -- Final Project Workshop 1
 
-- 12 -- Final Project Workshop 1
+- 12 -- Final Project Workshop 2
 
-- 13 -- Final Project Workshop 2
+- 13 -- Final Project Workshop 3
 
 - 14 -- Final Presentation and Critiques
 
