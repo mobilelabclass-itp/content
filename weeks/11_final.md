@@ -1,4 +1,4 @@
-# Week Final Project Workshop 1
+# Week 11 Final Project Workshop 1
 
 ## Plan
 
